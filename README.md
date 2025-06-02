@@ -9,7 +9,7 @@
 
 <h2> 🎓  Certifications </h2>
 
-<a href="https://www.linkedin.com/in/derekmegenbir/](https://www.credly.com/badges/ca574fa8-980a-44c6-8901-b31dbb076f21/public_url" />Comp TIA A+ </a>
+<a href="https://www.credly.com/badges/ca574fa8-980a-44c6-8901-b31dbb076f21/public_url" />Comp TIA A+ </a>
 
 <h2> 🤳 Connect with me:</h2>
 
