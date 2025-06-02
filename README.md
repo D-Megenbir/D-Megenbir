@@ -17,10 +17,8 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building a stronger understanding of networking and network security
-- 🌱 I’m currently learning Network+ and Security+ learning areas
+- 🌱 I’m currently learning Network+ and Security+ competency areas
 - 👯 I’m looking to collaborate on video projects
 - 🤔 I’m looking for help with learning all things IT
 
