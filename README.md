@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Building an Active Directory in Windows Server](https://github.com/D-Megenbir/ActiveDirectoryLab)
 - <b>IT Troubleshooting</b>
-  - [Using OSTicket to respond to Common IT Issues](https://github.com/D-Megenbir/ActiveDirectoryLab)
+  - [Using OSTicket to respond to Common IT Issues](https://youtu.be/dR2TLvFG3iA)
 
 <h2> 🎓  Certifications </h2>
 
