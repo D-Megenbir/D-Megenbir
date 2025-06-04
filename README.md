@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects </h2>
 
 - <b>Active Directory</b>
-  - [Building an Active Directory in Windows Server](https://github.com/D-Megenbir/ActiveDirectoryLab)
+  - [Building an Active Directory in Windows Server](https://youtu.be/dR2TLvFG3iA)
 - <b>IT Troubleshooting</b>
   - [Using OSTicket to respond to Common IT Issues](https://youtu.be/dR2TLvFG3iA)
 
