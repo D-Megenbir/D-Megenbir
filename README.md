@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Projects </h2>
 
-- <b>Active Directory</b>
-  - [Building an Active Directory in Windows Server](https://youtu.be/dR2TLvFG3iA)
+- <b>Domain Management in Windows Server</b>
+  - [Building out a Domain in Windows Server using Active Directory/Server Roles](https://www.youtube.com/watch?v=1IK1zjw7JgU)
 - <b>IT Troubleshooting</b>
   - [Using OSTicket to respond to Common IT Issues](https://youtu.be/dR2TLvFG3iA)
 
